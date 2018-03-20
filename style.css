@@ -1,0 +1,62 @@
+#content {
+    width: 400px;
+    padding-top: 60px;
+    padding-left: 200px;
+    background-color: transparent;
+    font-family: 'Lobster', monospace;
+}
+
+#search-box {
+	padding-top: 50px;
+	padding-left: 100px;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 24px;
+}
+
+
+#poster {
+
+	padding-left: 100px;
+}
+
+h2 {
+
+	font-family: 'Farsan', monospace;
+}
+
+body {
+    background-image: url("https://s3-eu-central-1.amazonaws.com/centaur-wp/creativereview/prod/content/uploads/2017/01/4-Bonobo-Neil-Krug1.jpg");
+}
+
+.div-inline{
+    display:inline-block;
+}
+
+.menu-style {
+	font-family: 'Roboto Mono', monospace;
+	background-color: transparent;
+	width: 100px;
+	border-color: black;
+	padding-left: 10px;
+
+}
+
+.dropdown-menu > li > a:hover {
+    background-color: pink;
+}
+
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.dropdown-toggle.btn-primary.focus, .open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
+    background-color: transparent;
+    border-color: black;
+}
+
+.btn-primary:hover {
+	background-color: transparent;
+    border-color: black;
+
+}
+
+.btn-primary {
+	background-color: transparent;
+    border-color: black;
+}
